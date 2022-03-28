@@ -1,5 +1,9 @@
 # 《人类的未来》读书笔记
 
+## 声明
+
+本文为《人类的未来：移民火星、星际旅行、永生以及人类在地球之外的命运》，[美]加来道雄（Michio Kaku）著，中信出版集团，2019年. 的读书笔记。
+
 ## 作者简介
 
 加来道雄，美籍科学家，科学畅销书作者，美国加州大学伯克利分校物理学博士 、纽约城市大学研究生中心的理论物理学教授，超弦理论的专家。
@@ -84,8 +88,10 @@
 
 ## 参考文献
 
-[1] 与远古人同行. https://www.bilibili.com/video/BV11W411H7Je
+[1] 加来道雄（Michio Kaku）. 人类的未来：移民火星、星际旅行、永生以及人类在地球之外的命运[M].  中信出版集团, 2019.
 
-[2] Matthew J Colbrook, Vegard Antun, and Anders C Hansen. ‘The difficulty of computing stable and accurate neural networks – On the barriers of deep learning and Smale’s 18th problem.’ Proceedings of the National Academy of Sciences (2022). DOI: 10.1073/pnas.2107151119
+[2] [与远古人同行.]( https://www.bilibili.com/video/BV11W411H7Je)
 
-[3] Sarah Collins, External Affairs and Communications team. 'Mathematical paradox demonstrates the limits of AI' University of Cambridge. 17 Mar 2022. https://www.cam.ac.uk/research/news/mathematical-paradox-demonstrates-the-limits-of-ai)
+[3] Matthew J Colbrook, Vegard Antun, and Anders C Hansen. ‘The difficulty of computing stable and accurate neural networks – On the barriers of deep learning and Smale’s 18th problem.’ Proceedings of the National Academy of Sciences (2022). DOI: 10.1073/pnas.2107151119
+
+[3] [Sarah Collins, External Affairs and Communications team. 'Mathematical paradox demonstrates the limits of AI' University of Cambridge. 17 Mar 2022. ](https://www.cam.ac.uk/research/news/mathematical-paradox-demonstrates-the-limits-of-ai)

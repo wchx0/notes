@@ -1,5 +1,9 @@
 # Git
 
+## 声明
+
+本文主要基于廖雪峰老师的博客总结改编而成，原文请参见 [Git教程 - 廖雪峰的官方网站](https://www.liaoxuefeng.com/wiki/896043488029600) 。
+
 ## Git 简介
 
 Git是一个极为先进的开源的分布式版本管理系统。它是 Linus Torvalds （没错，就是Linux之父）为了帮助管理Linux内核开发而开发的。
