@@ -18,6 +18,6 @@
 
 #### 说明
 
-Copyright 2022 Chengxin Wang
+Copyright © 2022 by Chengxin Wang.
 
 本仓库所有文章除特别说明，均采用 [CC BY 4.0 协议](./LICENSE) ，转载请注明来源。
